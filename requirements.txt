@@ -1,0 +1,2 @@
+1. Pythob 3.0 or above version should be installed in system.
+2. Download the file 'bgimg2.gif' and place it where the code is [in the same direcory.]
